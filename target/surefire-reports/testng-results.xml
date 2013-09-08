@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CnnTest" duration-ms="118290" started-at="2013-09-07T23:45:06Z" finished-at="2013-09-07T23:47:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="118290" started-at="2013-09-07T23:45:06Z" finished-at="2013-09-07T23:47:04Z">
+      <class name="CnnTest">
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="77637" started-at="2013-09-07T23:45:06Z" finished-at="2013-09-07T23:46:24Z">
+        </test-method>
+        <test-method status="PASS" signature="f()" name="f" duration-ms="10276" started-at="2013-09-07T23:46:24Z" finished-at="2013-09-07T23:46:34Z">
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="305" started-at="2013-09-07T23:46:34Z" finished-at="2013-09-07T23:46:34Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="23331" started-at="2013-09-07T23:46:34Z" finished-at="2013-09-07T23:46:58Z">
+        </test-method>
+        <test-method status="PASS" signature="f1()" name="f1" duration-ms="6716" started-at="2013-09-07T23:46:58Z" finished-at="2013-09-07T23:47:04Z">
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="16" started-at="2013-09-07T23:47:04Z" finished-at="2013-09-07T23:47:04Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
