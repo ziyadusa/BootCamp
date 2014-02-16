@@ -27,6 +27,7 @@ public class CnnTest {
     }
 
    @Test
+   //This is test file
     public void f1() {
         clickByCss("#nav-world");
         clickOnMenu(".cnn_sectt1cntnt li");
